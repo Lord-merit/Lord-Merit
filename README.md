@@ -2,5 +2,6 @@
 
 Projects to upload:
 
-  -Discord Bot
-  -CoastSat
+      -Discord Bot
+  
+      -CoastSat
