@@ -4,4 +4,3 @@ Projects to upload:
 
       -Discord Bot
   
-      -CoastSat
