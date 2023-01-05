@@ -1,8 +1,8 @@
--heywtu's project account 
+-Lord Merit's project account 
 
 Projects to upload:
 
       -Discord Bot
-      -Simple Python Projects
-      -Simple JS Projects
+      -Python Projects
+      
       
