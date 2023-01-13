@@ -3,6 +3,6 @@
 Projects to upload:
 
       -Discord Bot
-      -Python Projects
+      -Python Apps
       
       
